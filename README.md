@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN - Satck Development<br><br>👨‍💻 All of my projects are available at My-Portfolio<br><br>💬 Ask me about MERN<br><br>📫 How to reach me prakasharjunan47@gmail.com<br><br>📄 Know about my experiences My Resume
+🌱 I’m currently learning Full Satck Development<br><br>👨‍💻 All of my projects are available at My-Portfolio<br><br>💬 Ask me about  Full Satck Development <br><br>📫 How to reach me prakasharjunan47@gmail.com<br><br>📄 Know about my experiences My Resume
 
 
 ## 🌐 Socials:
